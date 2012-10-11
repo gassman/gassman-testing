@@ -3,7 +3,9 @@ package org.cloudfoundry.samples;
 public class State {
 
 	private Long id;
-		
+	
+	private Integer fred;
+	
 	private String stateCode;
 	
 	private String name;
